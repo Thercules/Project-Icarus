@@ -306,8 +306,20 @@ nav{
 }
 
 
-.apostolo1 {
+/* .star-gazing {
     background: url("imagens/cubos/Bao-cubo.png") center no-repeat;
+} 
+
+.hiking {
+    background: url("imagens/Cubos/Izeru-cubo.png") center no-repeat; 
+}
+
+.camping {
+    background: url("imagens/camping.jpg") center no-repeat; 
+}  */
+
+.apostolo1 {
+    background: url("imagens/Cubos/Bao-cubo.png") center no-repeat;
 }
 
 .apostolo2 {
@@ -331,7 +343,7 @@ nav{
 }
 
 .apostolo7 {
-    background: url("imagens/Cubos/harkion-cubo.png") center no-repeat; 
+    background: url("imagens/Cubos/Harkion-cubo.png") center no-repeat; 
 } 
 
 .apostolo8 {
@@ -474,6 +486,7 @@ footer{
         width: 3.5rem;
     }
 
+
     .nav-list {
        width: initial;
        height: initial;
@@ -555,7 +568,7 @@ footer{
             height: 75vh;
         }
     }
-} 
+ 
 
 .social-list a{
     margin: 0 2rem;
@@ -592,4 +605,4 @@ footer{
   .social-media i:hover {
     background-color: #FF416C;
   } 
-
+}
